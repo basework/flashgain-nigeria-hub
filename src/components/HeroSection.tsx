@@ -53,7 +53,7 @@ const HeroSection = () => {
             className="flex flex-wrap gap-4"
           >
             <a
-              href="#features"
+              href="https://flashgain9ja.money/register?ref=EBJ5K946ER"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-lg bg-secondary text-secondary-foreground font-semibold text-base hover:opacity-90 transition-opacity"
             >
               Start Earning
