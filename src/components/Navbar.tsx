@@ -46,7 +46,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="#"
+              href="https://flashgain9ja.money/register?ref=EBJ5K946ER"
               className="px-5 py-2.5 rounded-lg hero-gradient text-primary-foreground text-sm font-semibold hover:opacity-90 transition-opacity"
             >
               Get Started
@@ -84,7 +84,7 @@ const Navbar = () => {
                 </a>
               ))}
               <a
-                href="#"
+                href="https://flashgain9ja.money/register?ref=EBJ5K946ER"
                 className="px-5 py-2.5 rounded-lg hero-gradient text-primary-foreground text-sm font-semibold text-center"
               >
                 Get Started
