@@ -12,7 +12,7 @@ const features = [
   {
     icon: Wallet,
     title: "Daily Earnings",
-    description: "Earn ₦1,000 every 1 minute by claiming through the daily earnings button.",
+    description: "Earn ₦2000 every 1 minute by claiming through the daily earnings button.",
   },
   {
     icon: Users,

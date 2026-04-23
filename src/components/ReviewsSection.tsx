@@ -6,7 +6,7 @@ const reviews = [
   { name: "Emeka O.", text: "Withdrawal came in less than 5 minutes. No cap, this platform is real.", likes: 89, time: "4h ago" },
   { name: "Blessing I.", text: "I referred 30 people and earned ₦150,000. God bless FlashGain 9ja!", likes: 234, time: "1h ago" },
   { name: "Tunde M.", text: "Best earning platform in Nigeria. I use it every single day.", likes: 67, time: "6h ago" },
-  { name: "Funke B.", text: "The daily earnings button alone changed my life. ₦1,000 every minute!", likes: 312, time: "30m ago" },
+  { name: "Funke B.", text: "The daily earnings button alone changed my life. ₦2000 every minute!", likes: 312, time: "30m ago" },
   { name: "Adamu K.", text: "No hidden charges, no stress. Just pure earnings. Thank you FG9ja!", likes: 178, time: "3h ago" },
   { name: "Grace E.", text: "I paid my school fees with FlashGain earnings. Forever grateful 🙏", likes: 445, time: "5h ago" },
   { name: "Segun D.", text: "Customer support is top-notch. They replied in 2 minutes!", likes: 56, time: "8h ago" },
